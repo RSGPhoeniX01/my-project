@@ -1,0 +1,6 @@
+# my-project
+1st basic game
+this is the my first basic game which is ....
+ROCK PAPER SCISSOR !!!!!
+ENjoy playing it....
+and feel free to gibve any suggestion
